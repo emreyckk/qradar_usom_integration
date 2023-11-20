@@ -3,7 +3,7 @@
 # Define the working directory
 CTI_DIR="/root/cti"
 
-# Step 1: Change to the USOM directory
+# Step 1: Change to the CTI directory
 cd "$CTI_DIR" || exit 1
 
 # Step 2: Download the URL list
