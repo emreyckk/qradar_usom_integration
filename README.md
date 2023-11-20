@@ -1,4 +1,4 @@
-# qradar_usome_integration
+# Qradar_Usome_Integration
 You can easily integrate the malicious IP addresses detected by Usome into the qradar with this script.
 
 What is USOME ?
