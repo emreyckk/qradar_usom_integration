@@ -1,6 +1,8 @@
 # Qradar_Usome_Integration
 You can easily integrate the malicious IP addresses detected by Usome into the qradar with this script.
 
+I recommend that you create the reference list from the interface without running the script.(usom_url_list)
+
 What is USOME ?
 
 Usome is Turkish National Cyber Incident Response Center.
